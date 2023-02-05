@@ -1,1 +1,1 @@
-# FraudDetectionML
+# Machine Learning Mini Projects
